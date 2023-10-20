@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.top{
+    background: #000;
+    padding: 0.5em 1em;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+.top>div{
+    margin: 0 1.3em;
+    
+}
+h2{
+    color: #fff;
+}
+a{
+    text-decoration: none;
+}
+a:visited{
+    color: #fff;
+}
